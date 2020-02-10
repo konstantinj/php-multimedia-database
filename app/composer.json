@@ -1,0 +1,15 @@
+{
+  "name": "konstantinj/mmi",
+  "homepage": "https://mmi.jakobi.club/",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "james-heinrich/getid3": "^1.9.18",
+    "php-ffmpeg/php-ffmpeg": "^0.14"
+  },
+  "require-dev": {
+    "phalcon/devtools": "^3.4.3",
+    "phalcon/ide-stubs": "^3.4.3"
+  },
+  "autoload": {}
+}
